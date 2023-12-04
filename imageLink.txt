@@ -1,0 +1,1 @@
+https://hub.docker.com/layers/bmannramos/desafio-docker-go/latest/images/sha256-3a4786cb7caaa3f911c19d8f6ddf43b1c80ad2a664a24f1a623c8438d6e80ce5?context=repo
